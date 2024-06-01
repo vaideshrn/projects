@@ -1,0 +1,16 @@
+{
+    "expenses": [
+        {
+            "timestamp": "2024-05-31 19:51:27",
+            "amount": 20.0,
+            "category": "food",
+            "description": "i eat pizza"
+        }
+    ],
+    "categories": {
+        "food": 0
+    },
+    "budgets": {
+        "food": 50.0
+    }
+}
